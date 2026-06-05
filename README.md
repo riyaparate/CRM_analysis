@@ -1,7 +1,7 @@
 # CRM Opportunity Analysis Dashboard
 
 ## Project Overview
-CRM Opportunity Analysis is a data analytics project focused on evaluating sales opportunities, revenue performance, and CRM data. The project analyzes opportunity pipelines, win rates, conversion metrics, and industry trends to deliver actionable business insights through interactive dashboards and KPI tracking.
+CRM Opportunity Analysis is a data analytics project focused on evaluating sales opportunities, revenue performance, and customer relationship management (CRM) data. The project analyzes opportunity pipelines, win rates, conversion metrics, and industry trends to generate actionable business insights. Data was processed using Excel and SQL, analyzed through Tableau and Power BI, and transformed into interactive dashboards for effective KPI monitoring and decision-making.
 
 ## Objectives
 * Monitor sales opportunity performance
@@ -11,8 +11,10 @@ CRM Opportunity Analysis is a data analytics project focused on evaluating sales
 * Support data-driven decision-making
 
 ## Tools Used
-* Power BI
 * Microsoft Excel
+* MySQL
+* Tableau
+* Power BI
 
 ## Key KPIs
 * Expected Revenue
@@ -34,10 +36,3 @@ CRM Opportunity Analysis is a data analytics project focused on evaluating sales
 * Analyzed revenue growth patterns across multiple years.
 * Evaluated opportunity conversion and win performance.
 * Tracked sales pipeline effectiveness through KPI monitoring.
-
-## Project Snapshot
-<img width="1323" height="748" alt="crm_dashboard 1" src="https://github.com/user-attachments/assets/e7aa8ddb-61a8-4be2-b0ef-ba40c2ea55ef" />
-
-## Author
-Riya Parate
-Aspiring Data Analyst | Power BI | Excel
